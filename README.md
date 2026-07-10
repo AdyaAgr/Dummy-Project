@@ -1,6 +1,6 @@
 # Apple Website Clone (MERN + Docker)
 
-A full-scale responsive clone of the Apple website built using the MERN stack and containerized with Docker.  
+A full scale responsive clone of the Apple website built using the MERN stack and containerized with Docker.  
 This project replicates the structure, design, and browsing experience of Apple's official website across ~157 pages, with a strong focus on frontend precision and scalable architecture.
 
 ---
