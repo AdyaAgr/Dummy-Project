@@ -45,6 +45,7 @@ This project is a UI/UX-focused recreation of the Apple website. It includes mul
 - Dockerized development environment
 - Structured and maintainable codebase
 
+
 ---
 
 ## Included Functionality
