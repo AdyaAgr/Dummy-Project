@@ -5,7 +5,7 @@ This project replicates the structure, design, and browsing experience of Apple'
 
 ---
 
-## Overview of the Project
+## Overview
 
 This project is a UI/UX-focused recreation of the Apple website. It includes multiple product pages, navigation systems, and interactive components designed to closely match the original experience.
 
